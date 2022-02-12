@@ -1,0 +1,45 @@
+{
+    "Token ID": "2",
+    "description": "Each Brazen Bear is part of a randomly generated hand-drawn collection. Learn more at brazenbears.io",
+    "image": "https://ipfs.io/ipfs/QmPR6KK74iLLrgdGSpVmjnddk1GjRUKRsHq5UQqEV4WJSt",
+    "external_url": "https://www.brazenbears.io",
+    "name": "Bear #2",
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Surprised"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Diamonds"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Plain T-Shirt"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Roar"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Green Stone"
+        },
+        {
+            "trait_type": "Sunglasses",
+            "value": "Yellow"
+        }
+    ]
+}
